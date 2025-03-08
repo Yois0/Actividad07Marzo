@@ -1,0 +1,7 @@
+# Inicia una variable contador
+contador = 1  
+
+# Bucle WHILE que se ejecuta mientras contador sea menor o igual a 10
+while contador <= 10:  
+    print(f"Número: {contador}")  # Imprime el número actual  
+    contador += 1  # Incrementa el contador en 1
